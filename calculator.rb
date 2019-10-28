@@ -5,5 +5,5 @@ second_number= 6
 sum = 
 difference = 
 product =
-q
+quot
 

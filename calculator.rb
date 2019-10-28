@@ -1,4 +1,4 @@
 # Add your variables here
-first_number = float
+first_number = 
 
 
